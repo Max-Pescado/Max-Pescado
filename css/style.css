@@ -217,7 +217,7 @@ ul.sub-menu li {
 }
 
  .theme_slider_title span {
-    color:#82b33e;
+    color:#FF0000;
 }
  .slider-text {
      top: 50%;
@@ -254,7 +254,7 @@ ul.sub-menu li {
      margin-top: -21px;
 }
  #main_slider .owl-controls .owl-nav .owl-prev:hover, #main_slider .owl-controls .owl-nav .owl-next:hover{
- background-color: #82b33e;
+ background-color: #FF0000;
 }
  #main_slider .owl-controls .owl-nav .owl-prev {
      float: left;
