@@ -317,7 +317,7 @@ padding-top: 40px
      color:#fff;
 }
  .service-icon i{
-     color: #82b33e;
+     color: #FF0000;
      font-size: 40px;
      margin-bottom: 30px;
      display: inline-block;
@@ -358,7 +358,7 @@ padding-top: 40px
 	text-align:center;
 }
 .team-social a:hover .fa{
-	color: #82b33e;
+	color: #FF0000;
 }
  .team-social a {
       padding: 7px 5px;
@@ -383,7 +383,7 @@ padding-top: 40px
      opacity: 1;
 }
  .team_sect:hover .team-info .title{
-     color:#82b33e;
+     color:#FF0000;
      cursor:pointer;
 }
  .team_sect:hover .team-social{
@@ -576,7 +576,7 @@ padding-top:20px;
 }
  .testmonialsec.owl-theme .owl-dots .owl-dot span {
      margin: 0 5px;
-     border: 1px solid #82b33e;
+     border: 1px solid #FF0000;
      background: transparent;
 }
 /**==================== Counter ======================**/
@@ -646,7 +646,7 @@ color:#fff;
 }
 .counticon i {
     font-size: 40px;
-    color: #82b33e;
+    color: #FF0000;
 }
 .counticon h1 {
     color: #fff;
@@ -695,7 +695,7 @@ color:#fff;
  .sbrm{
      font-size: 14px;
      font-style: italic;
-     color: #82b33e;
+     color: #FF0000;
      position: relative;
      display: inline-block;
      font-weight: 400;
@@ -816,7 +816,7 @@ footer {
 	transition: all 0.3s;
 }
 #footer .inside p>a:hover {
-	color: #82b33e;
+	color: #FF0000;
 	text-decoration: none;
 }
 .contact-info {
@@ -855,7 +855,7 @@ footer {
     transition: all 0.3s;
 }
 .social i:hover {
-	background: #82b33e;
+	background: #FF0000;
 	color: #fff;
 	border: 1px solid #82b33e;
 }
@@ -901,7 +901,7 @@ footer {
 	 color:#fff;
 }
  .breadCumpNav a:hover{
-     color: #82b33e;
+     color: #FF0000;
 }
 
 
@@ -935,7 +935,7 @@ footer {
      font-family: FontAwesome;
      font-size: 16px;
      line-height: .8;
-     color: #82b33e;
+     color: #FF0000;
 }
  .servicesNav li a{
      color: #2c3e50;
@@ -945,7 +945,7 @@ footer {
 }
  .servicesNav li a:hover, .servicesNav li.active a{
      background: #2c3e50;
-     color: #82b33e;
+     color: #FF0000;
 }
  .pdfDownload {
      padding-left: 17px;
@@ -1006,7 +1006,7 @@ footer {
      width: 100px;
 }
  .servicRead::before {
-     background: #82b33e none repeat scroll 0 0;
+     background: #FF0000 none repeat scroll 0 0;
      bottom: 0;
      content: "";
      height: 2px;
@@ -1080,7 +1080,7 @@ padding-bottom:20px;
      font-style: italic;
 }
  .blogMeta a:hover{
-     color: #82b33e;
+     color: #FF0000;
 }
  .blogMeta {
      margin-bottom: 17px;
@@ -1092,7 +1092,7 @@ padding-bottom:20px;
      margin-bottom: 30px;
 }
  .blogReadmore{
-     background: #82b33e none repeat scroll 0 0;
+     background: #FF0000 none repeat scroll 0 0;
      color: #fff;
      display: inline-block;
      font-size: 15px;
@@ -1157,7 +1157,7 @@ padding-bottom:20px;
 }
  .widgetList li:after{
      content: '\f0da';
-     color: #82b33e;
+     color: #FF0000;
      font-family: FontAwesome;
      left: 0;
      top: 0;
@@ -1169,7 +1169,7 @@ padding-bottom:20px;
 }
  .widgetList li a:hover{
      padding-left: 5px;
-     color: #82b33e;
+     color: #FF0000;
 }
  .singleRecPost{
      position: relative;
@@ -1245,7 +1245,7 @@ padding-bottom:20px;
      margin-right: 0;
 }
  .shareSocial a:hover{
-     color: #82b33e;
+     color: #FF0000;
 }
  .fullwidthAuthor{
      background: #f6f6f6;
@@ -1285,7 +1285,7 @@ padding-bottom:20px;
      margin-left: 10px;
 }
  .fwaSocial a:hover{
-     color: #82b33e;
+     color: #FF0000;
 }
  .comment {
      margin-bottom: 58px;
@@ -1391,7 +1391,7 @@ padding-bottom:20px;
      left: 0;
      top: 6px;
      font-size: 16px;
-     color: #82b33e;
+     color: #FF0000;
 }
  .singleContadds p{
      margin: 0;
@@ -1404,7 +1404,7 @@ padding-bottom:20px;
      color: #858585;
 }
  .singleContadds a:hover{
-     color: #82b33e;
+     color: #FF0000;
 }
  .singleContadds.phone{
 }
@@ -1479,7 +1479,7 @@ padding-bottom:20px;
      height: 100%;
 }
  .singleProCaro .carousel-indicators li.active{
-     border-color: #82b33e;
+     border-color: #FF0000;
 }
  .singleProCaro .carousel-control {
      background: #a9a7a2 none repeat scroll 0 0;
@@ -1505,7 +1505,7 @@ padding-bottom:20px;
 
 }
  .singleProCaro .carousel-control:hover i{
-     color: #82b33e;
+     color: #FF0000;
 }
  .singleProCaro .carousel-control i{
      color: #fff;
