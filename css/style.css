@@ -115,7 +115,7 @@ Primary use:
 }
 
  .header.fixedHeader{
-	 background: #82b33e;
+	 background:  #FFFF00;
      position: fixed;
      left: 0;
      right: 0;
@@ -186,7 +186,7 @@ Primary use:
      text-transform: capitalize;
 }
  .mainnav ul ul.sub-menu li a:hover{
-     color: #82b33e;
+     color:  #FFFF00;
 }
 ul.sub-menu li {
     text-align: left;
