@@ -61,7 +61,7 @@ Primary use:
      padding: 13px 10px;
 }
  .singMiddInfo h4{
-     color: #2c3e50;
+     color: #FFFF00;
      font-size: 14px;
      margin-bottom: 7px;
 }
@@ -310,7 +310,7 @@ padding-top: 40px
          margin: 20px 0;
 }
  .service:hover{
-     background: #82b33e;
+     background: #FF0000;
      color:#fff;
 }
  .service:hover .service-icon i, .service:hover .service-text h2{
@@ -354,7 +354,7 @@ padding-top: 40px
     opacity: 0;
     margin: 7% 0 0 7%;
     transition: all 0.3s ease-out 0s;
-    background-color: #82b33e;
+    background-color: #FF0000;
 	text-align:center;
 }
 .team-social a:hover .fa{
@@ -409,7 +409,7 @@ padding-top: 40px
  .teambg:after{
      width: 60px;
      height: 2px;
-     background: #82b33e;
+     background: #FF0000;
      content: '';
      position: absolute;
      left: 0;
@@ -511,7 +511,7 @@ padding-top:20px;
      bottom: 0;
      width: 85%;
      height: 85%;
-     background: #82b33e;
+     background: #FF0000;
      position: absolute;
      margin: auto;
      visibility: hidden;
@@ -572,7 +572,7 @@ padding-top:20px;
      margin-top: 50px;
 }
  .testmonialsec.owl-theme .owl-dots .owl-dot.active span, .testmonialsec.owl-theme .owl-dots .owl-dot:hover span {
-     background: #82b33e;
+     background: #FF0000;
 }
  .testmonialsec.owl-theme .owl-dots .owl-dot span {
      margin: 0 5px;
