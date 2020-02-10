@@ -91,7 +91,7 @@ Primary use:
      text-shadow: 1px 0px 1px rgba(0, 0, 0, .30);
 }
  .headMiddBtn a:hover{
-     color: #2C3E50;
+     color: #ffff00;
 }
  .preloader {
      background: #fff none repeat scroll 0 0;
