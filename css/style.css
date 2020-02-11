@@ -458,7 +458,7 @@ padding-top:20px;
      margin-right: 30px;
 }
  .fillterNav li:hover, .fillterNav li.active{
-     color: #82b33e;
+     color: #ff0000;
 }
  .mix{
      display: none;
@@ -857,7 +857,7 @@ footer {
 .social i:hover {
 	background: #FF0000;
 	color: #fff;
-	border: 1px solid #82b33e;
+	border: 1px solid #ff0000;
 }
 
 
@@ -1124,7 +1124,7 @@ padding-bottom:20px;
      position: absolute;
      right: 0;
      top: 0;
-     background: #82b33e;
+     background: #ff0000;
      font-size: 14px;
      color: #fff;
      height: 50px;
@@ -1363,7 +1363,7 @@ padding-bottom:20px;
      margin-bottom: 15px;
 }
  #contactForm .reqError{
-     border-color: #82b33e;
+     border-color: #ff0000;
 }
 /*======================================================================= // Contact Page =========================================================================*/
 
@@ -1570,7 +1570,7 @@ padding-bottom:20px;
      margin: auto;
 }
  .showit {
-     background: #82b33e;
+     background: #ff0000;
     bottom: 100px;
     color: #fff;
     font-size: 20px;
